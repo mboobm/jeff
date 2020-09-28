@@ -1,1 +1,6 @@
 file 1 
+one file for study, 
+1. Plan 
+2. Do
+3. Check
+4. Replan 
